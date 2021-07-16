@@ -1,7 +1,8 @@
-# Starting Termux
 
-## Configurar internal storage folder
+ # Starting Termux
 
-Configurar internal storage folder by using this command in Termux.
+ ## Configurar internal storage folder
 
-$$termux-setup-storage$$
+ Configurar internal storage folder by using this command in Termux.
+
+ $$ termux-setup-storage $$
