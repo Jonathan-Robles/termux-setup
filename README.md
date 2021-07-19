@@ -1,8 +1,10 @@
 
 # Starting Termux
 
+### To configure all the packages please use the next code.
+
 > ~~~
-> apt-install-update && apt-install-upgrade
+> apt-install-upgrade && apt-install-update
 > ~~~
 
 ### Configurar internal storage folder
