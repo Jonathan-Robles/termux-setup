@@ -1,7 +1,11 @@
 
 # Starting Termux
 
-## Configurar internal storage folder
+> ~~~
+> apt-install-update && apt-install-upgrade
+> ~~~
+
+### Configurar internal storage folder
 
 Configurar internal storage folder by using this command in Termux.
 
